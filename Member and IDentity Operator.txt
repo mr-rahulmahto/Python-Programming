@@ -1,0 +1,69 @@
+MEMBER OPERATPOR this operator are using to finding value .....(IN , IN NOT)
+
+
+Example 1
+x="RAHUL MAHTO"
+
+1. "MA" in x
+ANSWER TRUE
+2. "HT" in x
+ANSWER FLASE
+3. "RAHUL N" in not x
+ANSWER TRUE
+4. "RAHUL" in not x
+ANSWER FLASE
+
+Example 2
+
+x= (30 , 40 ,55 ,89 ,90 , 4 , 12, 34 , 67 ,400, 104 ,405, 293 , 110)
+
+400 in x
+ANSWER TRUE
+
+500 in x
+ANSWER FLASE
+
+4 in x
+ANSWER TRUE
+
+100 in not x
+ANSWER TRUE
+
+
+2. IDENTITY OPERATOR this operator store ADDRESS of data...(IS , IS NOT)
+
+x=10
+y=5
+z=10
+
+x is y
+ANSWER FALSE
+
+x is z 
+ANSWER TRUE
+
+x==y (== comparing operator it compare on data base)
+
+ANSWER TRUE
+
+Example 2
+x=119
+z=12
+y=119.0
+
+x is y
+ANSWER FALSE (because y data in float type , create other address)
+
+x==y
+ANSWER TRUE
+
+
+
+
+
+
+
+
+
+
+
