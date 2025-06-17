@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf7756-fa49-48d7-9740-e5f04e0d0481" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerice_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple_interest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature_convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Document.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +51,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2max.executor": "Run",
+    "Python.Assignment_4.executor": "Run",
+    "Python.Function.executor": "Run",
     "Python.Numerice_function.executor": "Run",
     "Python.Simple_interest.executor": "Run",
     "Python.add.executor": "Run",
+    "Python.assignment_2.executor": "Run",
+    "Python.assignmrnt_3.executor": "Run",
+    "Python.exception_handling.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.file_handling.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.module.executor": "Run",
+    "Python.recursion.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.temperature_convert.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
