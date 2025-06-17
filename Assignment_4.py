@@ -1,5 +1,5 @@
 #Task 1
-'''
+
 try:
     # Open the file in read mode
     with open("sample.txt", "r") as file:
@@ -11,7 +11,7 @@ except FileNotFoundError:
     print("Error: The file 'sample.txt' does not exist.")
 except Exception:
     print("An error occurred:")
-  '''
+  
  #Task 2
 
  #Write Mode
