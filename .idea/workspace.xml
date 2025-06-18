@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3daf7756-fa49-48d7-9740-e5f04e0d0481" name="Changes" comment="" />
+    <list default="true" id="3daf7756-fa49-48d7-9740-e5f04e0d0481" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +21,12 @@
     &quot;assignee&quot;: &quot;mr-rahulmahto&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/mr-rahulmahto/Python-Programming.git&quot;,
-    &quot;accountId&quot;: &quot;735a2008-229c-4f1f-97de-264fe6664362&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mr-rahulmahto/Python-Programming.git",
+    "accountId": "e95101e6-89d4-4f4a-aa8d-a04236880891"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -51,7 +53,7 @@
     "Python.factorial.executor": "Run",
     "Python.file_handling.executor": "Run",
     "Python.function.executor": "Run",
-    "Python.list.executor": "Debug",
+    "Python.list.executor": "Run",
     "Python.module.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.set.executor": "Run",
@@ -60,6 +62,7 @@
     "Python.temperature_convert.executor": "Run",
     "Python.tuple.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -70,7 +73,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -84,5 +87,16 @@
       <updated>1740636237400</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
