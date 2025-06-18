@@ -1,0 +1,124 @@
+#List ===> [] Index Value
+
+#Example : Writing a List for The Groceries
+"""
+a=1
+b=3
+c=4
+d=5
+print(c)
+"""
+
+number=[1 ,2 ,3, 5 ,6]  #List
+#       0 , 1 ,2 ,3,4   INDEX VALUE
+
+print(number)
+print(number[4])
+
+#Example 2
+colours =['Red ' ,'Blue' , 'Yellow ' , 'White' , 'Orange' , 'Black' , 'Green' ]
+# Index     0   ,   1    ,    2      ,  3      ,  4        ,  5      ,  6
+print(colours)
+print(colours[4])
+
+#ADD TWO LIST
+list1=['Mike' , 10 , 45 , 123]
+list2=['LOL' , 45 , 56 ,64]
+print('Add two list\n' ,list1+list2)
+
+# LISTS IS MUTABLE (Modifies or Change the Data in list)
+list3=["Mental" , 23 , 56 ,"Dancer"]
+list3[0]='Hardworking' # Change
+print('print the list 3 \n' , list3)
+
+n=[2 , 3, 5 , 'Hello']
+#print(n*3)
+
+#Find the Element in list
+Game=["Football" , 'Cricket' , "Hockey" , 'Volleyball' , "chess"]
+print('basketball' in Game) #False
+print('Hockey' in Game) #True
+
+# Function  In List
+# append() Add only one value in list in the end side
+# extend(['eg' , 34 ,45]) add Multiple value in list in the end  side
+# remove()  Remove only one value in the list
+# pop(Index value)  Remove the element only one value
+# insert(index , "Value") Add the element in list --> Specifics index Number
+# Sort()  its arrange the element (increase order)
+# reverse() its reverse the value
+# del list[index1:index2:index:3]      Remove multiple value(index number) in the list
+# clear()   Remove all the Value at one time in the list
+
+#Example
+
+l= ['Red', 'dog', 45, 'Mike', 'Mango', 1526, 230, 23, 908, 'elephant']
+print(l)
+
+l.extend( [455 , 'Apple' , 56] )
+print(l)
+
+l.remove('Mike')
+print(l)
+
+del l[1:5:6]
+print(l)
+
+l.clear() #Remove all element at one time
+print(l)
+
+#example using other function
+
+r=['C' , 'C++' , "HTML" , "React" , "Python" , "Java" , "Power BI" , "ML"]
+
+r.pop(6)
+print(r)
+
+r.insert(2 , 'AI')
+print(r)
+
+r.sort()
+print(r)
+
+r.reverse()
+print(r)
+
+print(r.index("Python"))
+print(len(r))
+
+# Concept SLICING
+s=[10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200]
+#   0,1 ,2, 3 ,4  ,5,6, 7 ,8  , 9 , 10 ,11,12,13 ,14 , 15 ,16 ,17 , 18,19 index denote i
+
+# Formula list[i:i+1:interval]
+
+print(s[0:7])  #slicing
+print(s[:7])
+
+print(s[6:16])
+
+print(s[2:17:3])  #  3 interval
+print(s[2:19:4])
+
+# Blink List
+#syntax
+#[Expression for item in list]
+# y=[i**2 for i in range(12)]
+x=[]
+for i in range(12):
+    z=i**2
+    x.append(z)
+
+print(x)
+# Method 2
+y = [i ** 2 for i in range(11)]
+print(y)
+
+# Print Even number
+
+E=[]
+for i in range(21):
+   if(i%2==0):
+    z=i**2
+    E.append(z)
+print(E)

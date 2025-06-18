@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf7756-fa49-48d7-9740-e5f04e0d0481" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyTHon ZH 06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyTHon ZH 06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Document.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mr-rahulmahto"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mr-rahulmahto&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mr-rahulmahto/Python-Programming.git",
-    "accountId": "735a2008-229c-4f1f-97de-264fe6664362"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mr-rahulmahto/Python-Programming.git&quot;,
+    &quot;accountId&quot;: &quot;735a2008-229c-4f1f-97de-264fe6664362&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,31 +45,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2max.executor": "Run",
-    "Python.Assignment_4.executor": "Run",
-    "Python.Function.executor": "Run",
-    "Python.Numerice_function.executor": "Run",
-    "Python.Simple_interest.executor": "Run",
-    "Python.add.executor": "Run",
-    "Python.assignment_2.executor": "Run",
-    "Python.assignmrnt_3.executor": "Run",
-    "Python.exception_handling.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.file_handling.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.module.executor": "Run",
-    "Python.recursion.executor": "Run",
-    "Python.task2.executor": "Run",
-    "Python.temperature_convert.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/ZHB 06/PyTHon ZH 06"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numerice_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple_interest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignmrnt_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperature_convert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ZHB 06/PyTHon ZH 06&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
